@@ -1,0 +1,32 @@
+
+Responsive CV Website 
+
+Responsive personal Website Using HTML CSS & JavaScript.
+Includes light and dark mode.
+Developed for mobile and desktop view,
+with beautiful, adaptive and responsive user interface.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
